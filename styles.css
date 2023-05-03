@@ -1,0 +1,84 @@
+.main_image {
+    max-width: 100%;
+    padding-top: 5%;
+
+}
+
+.navbar {
+    background-color: white;
+}
+
+.new_headlines {
+    padding-top: 1em;
+}
+
+.second_row {
+    padding-top: 1em;
+}
+
+.card {
+    margin-top: 30px !important;
+    background-color: black;
+}
+
+#card-new {
+    color: darkgoldenrod;
+}
+
+.btn {
+    margin-top: 5%;
+    padding: 14px 24px;
+    border-radius: 0;
+    letter-spacing: 4px;
+}
+
+.third_row {
+    padding-top: 2em;
+    height: 110px;
+}
+
+.third_row img {
+    height: 110px;
+    margin-right: 10px;
+}
+
+h1 {
+    font-weight: 900 !important;
+    font-size: large;
+}
+
+h4 {
+    opacity: 0.25;
+    text-align: left;
+}
+
+h6 {
+    font-weight: 900;
+}
+
+p {
+    font-size: smaller !important;
+}
+
+a {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+#dark-text,
+#read {
+    color: white !important;
+}
+
+#read {
+    border-radius: 0;
+}
+
+a:hover,
+h1:hover,
+h6:hover,
+li:hover,
+#dark-text:hover,
+#read:hover {
+    color: darkgoldenrod !important;
+}
